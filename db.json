@@ -1,0 +1,453 @@
+{
+  "Users": [
+    {
+      "fname": "First User",
+      "lname": "user lname",
+      "uname": "user1",
+      "password": "1234",
+      "email": "saurabhkumarr99@gmail.com",
+      "id": 1
+    },
+    {
+      "fname": "Second User",
+      "lname": "abc",
+      "uname": "user2",
+      "password": "1234",
+      "email": "saurabhkumarr99@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "User3",
+      "lname": "sdfg",
+      "uname": "user3",
+      "password": "1234",
+      "email": "saurabhkumarr99@gmail.com",
+      "id": 3
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "userid": "user1",
+      "Quiz_Name": "First Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question6",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userid": "user1",
+      "Quiz_Name": "Second Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question6",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userid": "user1",
+      "Quiz_Name": "Third Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question6",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userid": "user1",
+      "Quiz_Name": "Fourth Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question6",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question7",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question8",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question9",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question10",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userid": "user1",
+      "Quiz_Name": "Fifth Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "userid": "user2",
+      "Quiz_Name": "Sixth Quiz",
+      "que": [
+        {
+          "Question": "Question1",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question2",
+          "Answer": "Option2",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question3",
+          "Answer": "Option3",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question4",
+          "Answer": "Option4",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        },
+        {
+          "Question": "Question5",
+          "Answer": "Option1",
+          "Optons": [
+            "Option1",
+            "Option2",
+            "Option3",
+            "Option4"
+          ]
+        }
+      ]
+    }
+  ],
+  "Student_response": []
+}
